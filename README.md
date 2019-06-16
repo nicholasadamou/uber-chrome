@@ -1,4 +1,4 @@
-# 🚗 Uber-chrome
+# 🚗 uber-chrome
 
 <p>
   <a href="https://dependabot.com">
