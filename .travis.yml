@@ -4,9 +4,11 @@
 # https://docs.travis-ci.com
 
 install:
-  - npm install && npm run build
+  - npx yarn install && npx yarn build
 
-language: generic
+language: node_js
+node_js:
+  - 'lts/*'
 
 matrix:
   include:
