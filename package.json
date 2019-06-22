@@ -1,5 +1,5 @@
 {
-  "name": "Uber-chrome",
+  "name": "uber-chrome",
   "version": "1.0.0",
   "description": "Easily call an Uber on your desktop from Chrome.",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "license": "MIT",
   "devDependencies": {
     "babel-core": "6.26.3",
-    "babel-loader": "~7.0.0",
+    "babel-loader": "~7.1.5",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "6.24.1",
     "babel-preset-stage-0": "6.24.1",
@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "chrome-sidebar": "0.1.2",
-    "react": "~15.5.4",
-    "react-dom": "~15.5.4"
+    "react": "~15.6.2",
+    "react-dom": "~15.6.2"
   }
 }
