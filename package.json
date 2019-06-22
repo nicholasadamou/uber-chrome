@@ -7,7 +7,11 @@
     "webpack": "webpack",
     "build": "npm run webpack",
     "watch": "node ./watch",
-    "update": "npx yarn-check -u"
+    "update": "npx yarn-check -u",
+    "snyk-protect": "snyk protect",
+    "prepare": "npx yarn run snyk-protect",
+    "test": "snyk test",
+    "prepublish": "npm run snyk-protect"
   },
   "author": "nicholasadamouemail@gmail.com",
   "license": "MIT",
@@ -28,5 +32,6 @@
     "chrome-sidebar": "0.1.2",
     "react": "~15.6.2",
     "react-dom": "~15.6.2"
-  }
+  },
+  "snyk": true
 }
