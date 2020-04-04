@@ -13,6 +13,7 @@
   "author": "nicholasadamouemail@gmail.com",
   "license": "MIT",
   "devDependencies": {
+    "@babel/core": "^7.9.0",
     "babel-core": "6.26.3",
     "babel-loader": "7",
     "babel-preset-env": "1.7.0",
