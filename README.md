@@ -44,6 +44,6 @@ Then, open `https://localhost:9966`.
 
 ## License
 
-Copyright (c) 2019 by Nicholas Adamou. Some rights reserved.
+Copyright (c) by Nicholas Adamou. Some rights reserved.
 
 `uber-chrome` is under the terms of the **MIT License**, following all clarifications stated in the [license file](license.md).
