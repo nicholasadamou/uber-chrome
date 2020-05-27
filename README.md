@@ -1,9 +1,6 @@
 # 🚗 uber-chrome
 
 <p>
-  <a href="https://dependabot.com">
-      <img src="https://api.dependabot.com/badges/status?host=github&repo=nicholasadamou/uber-chrome" alt="dependabot">
-  </a>
   <a href="https://travis-ci.org/nicholasadamou/uber-chrome">
       <img src="https://img.shields.io/travis/nicholasadamou/uber-chrome/master.svg?style=flat-square" alt="Build Status">
   </a>
