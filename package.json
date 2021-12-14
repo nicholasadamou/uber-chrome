@@ -7,8 +7,7 @@
     "webpack": "webpack",
     "build": "npm run webpack",
     "watch": "node ./watch",
-    "update": "npx yarn-check -u",
-    "test": "exit 0"
+    "update": "npx yarn-check -u"
   },
   "author": "nicholasadamouemail@gmail.com",
   "license": "MIT",
