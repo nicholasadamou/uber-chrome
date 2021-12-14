@@ -14,6 +14,11 @@ Clone the repository and install all dependencies by running:
 git clone https://github.com/nicholasadamou/uber-chrome
 cd uber-chrome/
 yarn install # Optionally, 'npm' can be used instead.
+```
+
+Next, build the application:
+
+```bash
 yarn build
 ```
 
