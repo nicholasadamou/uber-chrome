@@ -1,14 +1,5 @@
 # 🚗 uber-chrome
 
-<p>
-  <a href="https://travis-ci.org/nicholasadamou/uber-chrome">
-      <img src="https://img.shields.io/travis/nicholasadamou/uber-chrome/master.svg?style=flat-square" alt="Build Status">
-  </a>
-  <a href="https://saythanks.io/to/NicholasAdamou">
-      <img src="https://img.shields.io/badge/say-thanks-ff69b4.svg" alt="Say Thanks">
-  </a>
-</p>
-
 ## What is _uber-chrome_? 🤔
 
 Easily call an Uber on your desktop from Chrome.
