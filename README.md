@@ -14,6 +14,7 @@ Clone the repository and install all dependencies by running:
 git clone https://github.com/nicholasadamou/uber-chrome
 cd uber-chrome/
 yarn install # Optionally, 'npm' can be used instead.
+yarn build
 ```
 
 Finally, toss the contents of the `./build/` directory into [`chrome://extensions`](chrome://extensions).
